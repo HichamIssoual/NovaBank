@@ -1,0 +1,11 @@
+- [x]  setup the project
+- [x]  nav Bar
+- [x]  hero section
+- [x]  stats
+- [x]  billing section
+- [x]  business section
+- [x]  card deal
+- [x]  testimonials
+- [x]  CTA Section
+- [ ]  Footer
+- [ ]  Deploy the Project
