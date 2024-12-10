@@ -30,6 +30,8 @@ NovaBank is a modern, user-friendly website that showcases our design services a
 ## Installation
 
 To set up this project locally, follow these steps:
+2. demo live
+ https://nova-bank-xi.vercel.app
 
 1. **Clone the Repository**:
    ```bash
