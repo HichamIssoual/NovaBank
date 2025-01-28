@@ -32,7 +32,7 @@ function Footer() {
                 </div>
             </div>
             <div className="flex justify-between gap-4 mt-5 text-white pb-4 max-sm:flex-col max-sm:text-center">
-                <h3>Copyright Ⓒ 2022 HooBank. All Rights Reserved.</h3>
+                <h3>Copyright Ⓒ 2022 Novabank. All Rights Reserved.</h3>
                 <div className="flex gap-2 max-sm:m-auto">
                     {socialMedia.map(media => {
                         return (
